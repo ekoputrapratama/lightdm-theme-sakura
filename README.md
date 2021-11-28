@@ -7,7 +7,7 @@ WebGL LightDM Greeter Theme based on official LightDM Webkit Greeter Theme of An
 
 Original can be found [here](https://github.com/Antergos/lightdm-webkit-theme-antergos). All credit goes to the great people who 
 created, run, and maintain [Antergos](http://antergos.com).
-And for [FrankFitzGerald](https://codepen.io/FrankFitzGerald) for his amazing work in [codepen](https://codepen.io/FrankFitzGerald/pen/LAbfm)
+And for [FrankFitzGerald](https://codepen.io/FrankFitzGerald) for his amazing work at [codepen](https://codepen.io/FrankFitzGerald/pen/LAbfm)
 
 ## Screenshots
 <img src="Screenshot.gif" alt="screenshot1" />
